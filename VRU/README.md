@@ -6,7 +6,7 @@ We use UAVs to construct a vehicle image dataset, named VRU, for the vehicle ReI
 | ----------- | ------- | -------- | -------- |
 | Identities  | 15085   | 4601     | 13022    |
 | Images      | 172137  | 41917    | 137613   |
-| Multi-view  | $\surd | $\surd$  | $\surd$  |
+| Multi-view  | $\surd$ | $\surd$  | $\surd$  |
 | Multi-scale | $\surd$ | $\surd$  | $\surd$  |
 | Weather     | $\surd$ | $\surd$  | $\times$ |
 | Lighting    | $\surd$ | $\surd$  | $\times$ |
