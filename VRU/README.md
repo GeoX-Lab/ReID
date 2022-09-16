@@ -20,14 +20,17 @@ If you find this dataset useful for your research, please cite our paper.
 
 ```
 Bibtex
-@article{
-	title={Vehicle Re-identification based on UAV Viewpoint: Dataset and Method},
-	author={Lu, Mingming and Xu Yongchuan and Li Haifeng},
-	journal={Remote Sensing},
-	DOI={}
-	year={2022},
-	type={Journal Article}
-
+@Article{rs14184603,
+	AUTHOR = {Lu, Mingming and Xu, Yongchuan and Li, Haifeng},
+	TITLE = {Vehicle Re-Identification Based on UAV Viewpoint: Dataset and Method},
+	JOURNAL = {Remote Sensing},
+	VOLUME = {14},
+	YEAR = {2022},
+	NUMBER = {18},
+	ARTICLE-NUMBER = {4603},
+	URL = {https://www.mdpi.com/2072-4292/14/18/4603},
+	ISSN = {2072-4292},
+	DOI = {10.3390/rs14184603}
 }
 ```
 
