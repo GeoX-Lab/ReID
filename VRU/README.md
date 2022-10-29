@@ -12,7 +12,7 @@ We use UAVs to construct a vehicle image dataset, named VRU, for the vehicle ReI
 | Lighting    | $\surd$ | $\surd$  | $\times$ |
 | full-open   | $\surd$ | $\times$ | $\times$ |
 
-Now, the VRU dataset has been open sourced and can be downloaded from the [Baidu network disk](https://pan.baidu.com/s/1s5RcJK0wAfg3INYuRjG5zw?pwd=382t) [Google Driver](https://drive.google.com/file/d/1ESeeYeqbf1TIUChXNcevJK_0fyVGQpgZ/view?usp=share_link).
+Now, the VRU dataset has been open sourced and can be downloaded from the [Baidu network disk](https://pan.baidu.com/s/1s5RcJK0wAfg3INYuRjG5zw?pwd=382t) or [Google Driver](https://drive.google.com/file/d/1ESeeYeqbf1TIUChXNcevJK_0fyVGQpgZ/view?usp=share_link).
 Contact: xuyongchuan@csu.edu.cn
 
 ## Citation
